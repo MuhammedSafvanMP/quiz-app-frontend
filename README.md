@@ -43,7 +43,8 @@ Frontend Setup
 
 Clone the repository:
 
-git clone <repository-url>
+git clone : https://github.com/MuhammedSafvanMP/quiz-app-frontend.git
+
 cd quiz-app-frontend
 
 Install dependencies:
