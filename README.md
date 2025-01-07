@@ -76,4 +76,4 @@ Quiz: Displays the questions and handles navigation (next/previous).
 
 Points: Tracks and shows the user's current progress in the quiz.
 
-Header: Main layout with a responsive and visually appealing design.
+Header: Main layout with a responsive and visually appealing design.# quiz-app-frontend
